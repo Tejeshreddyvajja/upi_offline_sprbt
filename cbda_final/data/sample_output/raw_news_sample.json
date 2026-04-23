@@ -1,0 +1,25 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "fetchedResults": 2,
+  "articles": [
+    {
+      "source": {"id": null, "name": "TechCrunch"},
+      "author": "Example Author",
+      "title": "AI startup raises new funding round",
+      "description": "A startup in AI announces fresh funding.",
+      "url": "https://example.com/ai-funding",
+      "publishedAt": "2026-04-02T10:00:00Z",
+      "content": "Sample content about AI and cloud growth."
+    },
+    {
+      "source": {"id": null, "name": "Bloomberg"},
+      "author": "Market Reporter",
+      "title": "Finance markets react to earnings",
+      "description": "Equity markets moved after earnings release.",
+      "url": "https://example.com/finance-markets",
+      "publishedAt": "2026-04-02T11:00:00Z",
+      "content": "Sample finance content and market commentary."
+    }
+  ]
+}
